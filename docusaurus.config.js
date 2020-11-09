@@ -1,12 +1,10 @@
 module.exports = {
   title: 'Android Docs',
   tagline: 'Android Essentials, Codelabs & Articles',
-  url: 'https://fareeshussain.github.io',
-  baseUrl: '/android/',
+  url: 'https://android-docs.netlify.com',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
-  organizationName: 'fareeshussain', // Usually your GitHub org/user name.
-  projectName: 'android', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'My Site',
