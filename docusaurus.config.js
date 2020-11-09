@@ -18,6 +18,10 @@ module.exports = {
           activeBasePath: 'docs',
           label: 'Docs',
           position: 'left',
+        },{
+          to: 'codelabs/',
+          label: 'Codelabs',
+          position: 'left',
         },
         {to: 'blog', label: 'Blog', position: 'left'},
         {

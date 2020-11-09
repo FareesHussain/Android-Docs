@@ -1,0 +1,25 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2020-11-10T03:41:52+05:30",
+  "id": "intro",
+  "duration": 2,
+  "title": "How to Write a Codelab",
+  "authors": "Zarin",
+  "summary": "Intro",
+  "source": ".\\intro.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "sample"
+  ],
+  "tags": [
+    "medium"
+  ],
+  "feedback": "https://zarin.io",
+  "url": "intro"
+}
