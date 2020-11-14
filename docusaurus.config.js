@@ -7,7 +7,7 @@ module.exports = {
   favicon: 'img/favicon.ico',
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Android Docs',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
@@ -23,9 +23,9 @@ module.exports = {
           label: 'Codelabs',
           position: 'left',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
+        {to: 'blog', label: 'Articles', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/FareesHussain',
           label: 'GitHub',
           position: 'right',
         },
@@ -35,32 +35,32 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Start with basics',
           items: [
             {
-              label: 'Style Guide',
+              label: 'Kotlin basics',
               to: 'docs/',
             },
             {
-              label: 'Second Doc',
-              to: 'docs/doc2/',
+              label: 'Android basics',
+              to: 'docs/androidbasics',
             },
           ],
         },
         {
-          title: 'Community',
+          title: 'Contact Me',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'Instagram',
+              href: 'https://www.instagram.com/farees_hussain/',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: 'LinkedIn',
+              href: 'https://www.linkedin.com/in/farees-hussain-286a08193?originalSubdomain=in',
             },
             {
               label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              href: 'https://twitter.com/farees_hussain',
             },
           ],
         },
@@ -68,7 +68,7 @@ module.exports = {
           title: 'More',
           items: [
             {
-              label: 'Blog',
+              label: 'Articles',
               to: 'blog',
             },
             {
