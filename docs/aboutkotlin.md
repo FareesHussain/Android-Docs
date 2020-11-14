@@ -8,10 +8,10 @@ Visit Official Kotlin Website [here](https://kotlinlang.org/)
 
 ## What can you do with kotlin
  - [Native Android Development](https://developer.android.com/)
+ - [Cross platform apps with KMM](https://kotlinlang.org/lp/mobile/)
  - [Server Side Development with ktor](https://ktor.io/docs/quickstart-index.html)
  - [Server Side Development with spring](https://spring.io/guides/tutorials/spring-boot-kotlin/)
  - [Web Frontend with Kotlin/js](https://kotlinlang.org/docs/reference/js-overview.html)
- - [Cross platform apps with KMM](https://kotlinlang.org/lp/mobile/)
  - [Data Science with Kotlin-Jupiter](https://kotlinlang.org/docs/reference/data-science-overview.html)
 
 ## Why Kotlin instead of java

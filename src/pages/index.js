@@ -19,7 +19,7 @@ const features = [
   },
   {
     title: 'Android Codelabs',
-    imageUrl: 'img/undraw_docusaurus_tree.svg',
+    imageUrl: 'img/codelabs.png',
     description: (
       <>
         Custom made Google Codelabs for creating new Android projects
@@ -28,7 +28,7 @@ const features = [
   },
   {
     title: 'Articles',
-    imageUrl: 'img/undraw_docusaurus_react.svg',
+    imageUrl: 'img/blogsicon.png',
     description: (
       <>
         Popular and most useful articles from different websites.
