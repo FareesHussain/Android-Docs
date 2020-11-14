@@ -23,7 +23,7 @@ module.exports = {
           label: 'Codelabs',
           position: 'left',
         },
-        {to: 'blog', label: 'Articles', position: 'left'},
+        {to: 'blog', label: 'Weekly Articles', position: 'left'},
         {
           href: 'https://github.com/FareesHussain',
           label: 'GitHub',
