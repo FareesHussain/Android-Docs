@@ -81,7 +81,7 @@ module.exports = {
       copyright: `Copyright © ${new Date().getFullYear()} Android Docs, Built by Farees Hussain.`,
     },
     googleAnalytics: {
-      trackingID: 'G-6NJQ14VNP0',
+      trackingID: 'UA-6NJQ14VNP0-1',
       // Optional fields.
       anonymizeIP: true, // Should IPs be anonymized?
     },
