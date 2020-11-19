@@ -4,6 +4,14 @@ title: Why Kotlin?!
 slug: /
 ---
 
+export const Highlight = ({children, color}) => ( <span style={{
+      backgroundColor: color,
+      borderRadius: '2px',
+      color: '#fff',
+      padding: '0.2rem',
+    }}>{children}</span> );
+
+
 Visit Official Kotlin Website [here](https://kotlinlang.org/)
 
 ## What can you do with kotlin
@@ -43,3 +51,9 @@ Visit Official Kotlin Website [here](https://kotlinlang.org/)
 - [Udacity kotlin bootcamp](https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011?irclickid=12PSSYQOIxyOUIYwUx0Mo3YmUkiRKFTW7TYZyk0&irgwc=1&utm_source=affiliate&utm_medium=ads_n&aff=121977) 
 - [Android Developers](https://developer.android.com/kotlin/campaign/learn)
 ---
+
+## Why Kotlin
+
+<Highlight color="#25c2a0">Kotlin</Highlight> is a  **polyglot**  language i.e, It gathers all powerful functionalities from 
+other programming languages. All languages have some cool features and kotlin is it's combination.
+Kotlin lets you freely deal with the project as it is easy to implement and Intellij and Android Studio ease your work by showing errors before compiling (for compile time errors) 
